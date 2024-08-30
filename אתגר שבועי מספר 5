@@ -1,0 +1,5 @@
+def swap_digit(n):  
+    result = 11 - n 
+    return result 
+print(swap_digit(5))
+print(swap_digit(6))
